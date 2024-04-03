@@ -1,5 +1,5 @@
 {
-  "name": "laracasts/generators",
+  "name": "joshcadman01/laracasts-generators",
   "description": "Advanced Laravel generators, that include schema information.",
   "keywords": ["laravel", "generators"],
   "license": "MIT",
